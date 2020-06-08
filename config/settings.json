@@ -1,0 +1,17 @@
+{
+  "nodehost_api_key": "API_KEY_HERE",
+  "stripe_sk_api_key": "API_KEY_HERE",
+  "stripe_pk_api_key": "API_KEY_HERE",
+  "plans": {
+    "basic": {
+      "cost": 2.00,
+      "cost_time": "month",
+      "nodehost_plan": "reseller_normal_s1_v1",
+      "resources_disk": 1,
+      "resources_bandwidth": 40,
+      "resources_domain_alias": 5,
+      "resources_database": 1,
+      "resources_mail": 5
+    }
+  }
+}
